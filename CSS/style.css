@@ -77,6 +77,14 @@
     padding: 20px;
     background-color: black;
 }
+.title {
+    font-family: Raleway bold sans-serif;
+    background-color: black;
+    color: #BB9F06;
+    text-decoration: underline;
+    padding: 20px;
+    margin: 0;
+}
 
 /*
 .image {
